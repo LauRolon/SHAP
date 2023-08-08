@@ -1,8 +1,9 @@
-# Code to reproduce the analysis in " The ability of two lactic acid bacteria strains to inhibit <i> L. monocytogenes </i> in a monoculture and in an environmental microbiome context"
+# Ability of Two Strains of Lactic Acid Bacteria To Inhibit Listeria monocytogenes by Spot Inoculation and in an Environmental Microbiome Context
 
-Priscilla Sinclair, M. Laura Rolona, Jingzhang Feng, Adrian F. Padin Lopez, Luke LaBorde, Jasna Kovaca
+Sinclair, P., Rolon, M.L., Feng, J., Padin Lopez, A.F., LaBorde, L.F., Kovac,J. Ability of Two Strains of Lactic Acid Bacteria To Inhibit <i> Listeria monocytogenes </i> by Spot Inoculation and in an Environmental Microbiome Context. Microbiome 11, 128 (2023). Microbiology Spectrum 10,4 
 
-Department of Food Science, The Pennsylvania State University, University Park, PA 16802
-Microbiome Center, The Pennsylvania State University, University Park, PA 16802
+https://doi.org/10.1128/spectrum.01018-22
 
-Manuscript submitted to Microbiology Spectrum
+## Data analysis workflow:
+1. Compositional analysis of microbiota in attached biomass
+2. Culture-based microbiology data analyses
