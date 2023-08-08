@@ -1,6 +1,6 @@
 # Ability of Two Strains of Lactic Acid Bacteria To Inhibit Listeria monocytogenes by Spot Inoculation and in an Environmental Microbiome Context
 
-Sinclair, P., Rolon, M.L., Feng, J., Padin Lopez, A.F., LaBorde, L.F., Kovac,J. 2022. Ability of Two Strains of Lactic Acid Bacteria To Inhibit <i> Listeria monocytogenes </i> by Spot Inoculation and in an Environmental Microbiome Context. Microbiology Spectrum 10,4 
+Sinclair, P., Rolon, M.L., Feng, J., Padin Lopez, A.F., LaBorde, L.F., Kovac,J. 2022. Ability of Two Strains of Lactic Acid Bacteria To Inhibit <i> Listeria monocytogenes </i> by Spot Inoculation and in an Environmental Microbiome Context. Microbiology Spectrum 10, 4  
 
 https://doi.org/10.1128/spectrum.01018-22
 
